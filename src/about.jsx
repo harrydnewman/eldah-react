@@ -1,5 +1,5 @@
 import React from "react";
-import BunnaImage from "./bunna.jpeg"; // Importing images
+import BunnaImage from "./assets/bunna.jpeg"; // Importing images
 
 function About() {
   return (
